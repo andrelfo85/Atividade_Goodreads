@@ -11,7 +11,7 @@
     "método de atribuição do campo genero_autor",
     "data e método de tradução dos nomes das colunas para o português"
   ],
-  "recebido_em": "2026-10-15",
+  "recebido_em": "set-2026",
   "sha256": "40effdd64def421fbd9b6665542ebfbf058ad3c6c902acfba96227763b9cfe64",
   "tamanho_bytes": 1345736,
   "codificacao": "UTF-8 com BOM (ler com encoding='utf-8-sig')",
